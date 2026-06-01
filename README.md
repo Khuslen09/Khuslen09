@@ -1,4 +1,4 @@
-## 🙋‍♂️ About Me 
+## About Me 
 
 > *"소프트웨어, 데이터, AI, 그리고 비즈니스를 연결하는 제품을 만들고 싶습니다."*  
 > *"I build products that connect software, data, AI, and business."*
