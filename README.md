@@ -1,13 +1,12 @@
+## 🙋‍♂️ About Me 
 
-## About Me
-
-> *"소프트웨어, 데이터, AI, 그리고 비즈니스를 연결하는 제품을 만들고 싶습니다."*
+> *"소프트웨어, 데이터, AI, 그리고 비즈니스를 연결하는 제품을 만들고 싶습니다."*  
 > *"I build products that connect software, data, AI, and business."*
 
-한양대학교 ERICA에서 **컴퓨터공학과 경영학을 다중전공**하고 있습니다.
+한양대학교 ERICA에서 **컴퓨터공학과 경영학을 다중전공**하고 있습니다.  
 기술과 비즈니스의 교차점에서 실제로 쓰이는 서비스를 만드는 것에 관심이 많습니다.
 
-I'm a **Computer Science & Business double major** at Hanyang University ERICA.
+I'm a **Computer Science & Business double major** at Hanyang University ERICA.  
 I'm passionate about creating products that sit at the intersection of technology and business — things people actually use.
 
 ---
@@ -16,7 +15,7 @@ I'm passionate about creating products that sit at the intersection of technolog
 
 ### 📍 TRACEN — Flutter Location Life-Log App
 
-> 나의 하루 이동을 지도 위에 기록하는 라이프로그 앱
+> 나의 하루 이동을 지도 위에 기록하는 라이프로그 앱  
 > A Flutter app that visualizes your daily movement and life on a map
 
 ```
@@ -39,11 +38,13 @@ Flutter · Firebase · Google Maps · Gemini API · SQLite
 
 ### 🌐 LENLAB — Multilingual Knowledge & Content Platform
 
-> 다국어 지식 및 콘텐츠 플랫폼 (개발 중)
-> A multilingual knowledge and content platform — in progress
+> 다국어 지식 및 콘텐츠 플랫폼  
+> A multilingual knowledge and content platform
 
 - 📚 다국어 기반 지식 정리 및 공유 플랫폼 | Multilingual knowledge curation & sharing
 - ✍️ 개인 포트폴리오 및 블로그 용도로도 활용 | Also serves as personal portfolio & blog
+
+[![LENLAB](https://img.shields.io/badge/Visit-lenlab.pages.dev-0A66C2?style=for-the-badge&logo=cloudflare-pages&logoColor=white)](https://lenlab.pages.dev)
 
 ---
 
@@ -51,38 +52,32 @@ Flutter · Firebase · Google Maps · Gemini API · SQLite
 
 <div align="center">
 
-**Mobile**
-
+**Mobile**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Backend & Cloud**
-
+**Backend & Cloud**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=google-cloud&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FF9800?style=flat-square&logo=firebase&logoColor=white)
 ![Firebase Storage](https://img.shields.io/badge/Storage-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**AI & APIs**
-
+**AI & APIs**  
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Google Places](https://img.shields.io/badge/Google%20Places-34A853?style=flat-square&logo=google-maps&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white)
 
-**AI / ML Study**
-
+**AI / ML Study**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Database**
-
+**Database**  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Tools**
-
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -93,7 +88,7 @@ Flutter · Firebase · Google Maps · Gemini API · SQLite
 
 ## 🧠 ML / AI Learning
 
-머신러닝과 딥러닝을 체계적으로 학습하며 쌓아온 기록입니다.
+머신러닝과 딥러닝을 체계적으로 학습하며 쌓아온 기록입니다.  
 A record of structured ML & AI studies — learn by doing.
 
 | Repository | Description | Stack |
@@ -116,31 +111,33 @@ A record of structured ML & AI studies — learn by doing.
 
 ## 🎯 Career Interests &nbsp;|&nbsp; 관심 직무
 
-기술과 비즈니스가 만나는 곳에서 일하고 싶습니다.
-I'm looking for roles where **technology meets business**.
+기술과 비즈니스가 만나는 곳에서 일하고 싶습니다.  
+I'm drawn to roles where **technology, data, and strategy converge**.
 
 <div align="center">
 
-`Data Analyst` &nbsp;·&nbsp; `IT Consultant` &nbsp;·&nbsp; `Product Manager` &nbsp;·&nbsp; `Mobile / Full-stack Developer`
+| 직무 | Role | 한 줄 설명 |
+|:---:|:---:|:---|
+| 🛠 Software Engineer | 소프트웨어 엔지니어 | 실제로 동작하는 제품을 직접 만들고 싶다 |
+| 🤖 AI / ML Engineer | AI·ML 엔지니어 | 데이터와 모델로 문제를 해결하는 엔지니어 |
+| 📊 Data Analyst / Scientist | 데이터 분석가 | 데이터에서 인사이트를 찾아 의사결정에 기여 |
+| 🧭 IT Consultant / Strategy | IT 컨설턴트 | 기술로 비즈니스 문제를 진단하고 전략을 제시 |
+| 🚀 Product Manager | 프로덕트 매니저 | 사용자와 기술 사이에서 제품의 방향을 설계 |
+| 💼 Business Development | 비즈니스 개발 | 기술 기반의 파트너십과 성장 전략 탐색 |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contact &nbsp;|&nbsp; 연락처
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Khuslen09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khuslen09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+[![Email](https://img.shields.io/badge/Gmail-ch.huslen0621@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ch.huslen0621@gmail.com)
 
-</div>
+[![Email](https://img.shields.io/badge/Gmail-len.lab26@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:len.lab26@gmail.com)
 
----
-
-## 📫 Contact
-
-<div align="center">
+[![LENLAB](https://img.shields.io/badge/Blog%20%2F%20Portfolio-lenlab.pages.dev-0A66C2?style=for-the-badge&logo=cloudflare-pages&logoColor=white)](https://lenlab.pages.dev)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Khuslen09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khuslen09)
 
