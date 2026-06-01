@@ -1,12 +1,5 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=Hi,%20I'm%20Khuslen%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20%26%20Business%20%7C%20Flutter%20Developer%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=58"/>
-
-</div>
-
-<br/>
-
-## 🙋‍♂️ About Me &nbsp;|&nbsp; 저는 이런 사람이에요
+## About Me
 
 > *"소프트웨어, 데이터, AI, 그리고 비즈니스를 연결하는 제품을 만들고 싶습니다."*
 > *"I build products that connect software, data, AI, and business."*
